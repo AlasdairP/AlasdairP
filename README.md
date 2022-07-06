@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlasdairP
-- 👀 I’m interested in all this quantum physics. 
+- 👀 Interested in all this quantum physics. 
 - 📫 Looking for graduate positions in the quantum technologies industry, reach me at alasdairp@talktalk.net
 
 <!---
