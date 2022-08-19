@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlasdairP
-- 👀 Interested in all thing quantum and just graduated from the University of Edinburgh with an MPhys (Physics). 
+- 👀 Interested in all things quantum and just graduated from the University of Edinburgh with an MPhys (Physics). 
 - 📫 Looking for graduate positions in the quantum technologies industry, reach me at alasdairp@talktalk.net
 
 <!---
